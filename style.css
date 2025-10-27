@@ -51,8 +51,15 @@ body{
     border: none;
 }
 #msg{
-    color:rgb(11, 8, 150);
-    font-size: 8vmin;
+    color:#f1faee;
+    font-size: 10vmin;
+    font-weight: 700;
+    
+}
+#draw{
+    color: #f1faee;
+    font-size: 10vmin;
+    font-weight: 700;
 }
 .msg-container{
     height: 100vmin;
