@@ -1,5 +1,7 @@
 #click here to play
 http://tic-tac-toe-game-two-eosin.vercel.app
+ or 
+ https://my-tic-tac-toe-pjrz.onrender.com
 
 Tic-Tac-Toe is a classic two-player game where players take turns marking X or O on a 3x3 grid. 
 The goal is to align three of your symbols horizontally, vertically, or diagonally before your opponent does. 
